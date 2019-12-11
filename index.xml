@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>About on My New Hugo Site</title>
     <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-090-advanced/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content in About on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Dec 2019 11:08:08 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2019 11:28:59 +0200</lastBuildDate>
     
 	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-090-advanced/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Course</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-090-advanced/posts/course/</link>
+      <pubDate>Wed, 11 Dec 2019 11:40:24 +0200</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-090-advanced/posts/course/</guid>
+      <description>this course 090 I decided to enroll on this course in order to familiarize myself a bit more with DevOps and the actual fundamentals of it. I have used some of the similar techniques before but I felt like there was more for me to learn about it. When I saw that the course also has some nice little project, I thought that it will be the perfect thing to actually get to know some proper ways of doing things.</description>
+    </item>
+    
+    <item>
+      <title>Learning 090</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-090-advanced/posts/learning/</link>
+      <pubDate>Wed, 11 Dec 2019 11:40:14 +0200</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-090-advanced/posts/learning/</guid>
+      <description>Learning 090 On this course, and especially doing this small little project, I have learnt some good and practical ways of actually using DevOps mechanisms and techniques very easily! Also on the video and questionnaire part I learned more about the ideas and the whole basis of it all, why to work in this way and what to think about it.</description>
+    </item>
     
     <item>
       <title>My First</title>
