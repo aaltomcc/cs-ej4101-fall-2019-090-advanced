@@ -9,6 +9,8 @@ Hello, this is the landing page. Here I tell about my fictional self. So here we
 
 I'm a president of the Hugolandia. I rule ruthlessly, I add content as I please. My goal is to someday pass the Travis CI build, altho I think it might be impossible. The tokens are not on my side... I might need to make another post so that I could persuade the tokens to play with me. In hugoland we play with layouts, but more often the layouts play us, since we dont actually care so much about the looks of things.
 
+In addition to being the president I also like to play football, I am the goal keeper. I often go to midfield and shout YOU SHALL NOT PASS!!! and then the other team knows to stay away. Scaring is the best of tactics.
+
 LINKS TO POSTS:
 
 
