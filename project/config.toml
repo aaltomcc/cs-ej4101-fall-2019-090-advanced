@@ -1,0 +1,4 @@
+baseURL = "https://aaltomcc.github.io/cs-ej4101-fall-2019-090-advanced/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "pickles"
